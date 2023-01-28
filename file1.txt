@@ -13,5 +13,10 @@
 
 adding line1
 adding line2
+<<<<<<< Updated upstream
 google cloud
 DO cloud
+=======
+AWS cloud
+Azure cloud
+>>>>>>> Stashed changes
